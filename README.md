@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Anshu Arora</h1>
-<h3 align="center">B.Tech CSE (3rd Year) | Software Engineer | Data Science & AI Enthusiast</h3>
+<h3 align="center">B.Tech CSE (3rd Year) | Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:anshuar202@gmail.com">
@@ -16,20 +16,35 @@
 
 ## About Me
 
-- 🎓 B.Tech CSE (3rd Year), India  
-- 💻 Strong in **Python, SQL, Data Science & Machine Learning**  
-- 🚀Built scalable machine learning pipeline using PySpark for real-world datasets  
-- 🧠 Exploring **Deep Learning, Knowledge Graphs & Large Language Models (LLMs), Exploring AI,Retrieval-Augmented Generation (RAG)**  
-- ⚡ Practicing **Data Structures & Algorithms** for interview preparation  
-- 🎯 Goal: Software Engineer role at **Google, Microsoft, Accenture, Infosys**
+-🎓 B.Tech Computer Science Engineering (3rd Year)
 
+-💻 Skilled in Python, SQL, Data Science and Machine Learning
+
+-🤖 Interested in AI, Retrieval-Augmented Generation (RAG), Knowledge Graphs and Large Language Models
+
+-⚡ Solving Data Structures & Algorithms regularly
+
+- 🌱 Currently building AI-powered software projects and improving backend development skills
 ---
 
 ## 🛠 Tech Stack
-- Languages: Python, SQL ,C++ 
-- Data: Pandas, NumPy  
-- ML/AI: Scikit-learn, RAG, NLP  
-- Tools: FAISS, LangChain, Neo4j  ,LLM
+-ML/AI
+Scikit-learn
+RAG
+NLP
+
+-AI Frameworks
+LangChain
+FAISS
+
+-Databases
+Neo4j
+
+-Developer Tools
+Git
+GitHub
+VS Code
+Jupyter
 
 ### Languages
 <p>
@@ -57,11 +72,11 @@
 
 **Team Project • AI Ranking Engine Developer**
 
-Developed the AI ranking engine for an intelligent recruitment platform capable of ranking candidates using technical skills, experience, projects, education, and behavioral signals.
+Developed a modular AI ranking engine that evaluates candidates using technical skills, experience, projects, education, and behavioral signals to produce explainable candidate rankings.
 
 ### Highlights
 
-- Built modular candidate scoring architecture
+- Built a modular candidate scoring architecture integrating five independent scoring modules.
 - Implemented Technical, Experience, Project, Behavioral and Education scorers
 - Designed explainable ranking pipeline
 - Generated ranked candidate recommendations
@@ -84,7 +99,7 @@ https://github.com/Neverask1121/reqruitiq-india-runs-hkthn
 
 ### 🔹 Customer Churn Prediction (PySpark)
 
-- Developed a scalable machine learning pipeline using **PySpark**
+- Developed a scalable machine learning pipeline using **PySpark** for structured datasets.
 - Performed **data preprocessing, feature engineering, and model building**
 - Implemented **Logistic Regression & Random Forest models**
 - Focused on handling **large-scale structured datasets efficiently**
@@ -104,13 +119,13 @@ https://github.com/Neverask1121/reqruitiq-india-runs-hkthn
 
 - 🧠 Deep Learning (Neural Networks, TensorFlow/PyTorch)  
 - 📊 Advanced Data Science & ML  
-- ⚡ Data Structures & Algorithms  
+- ⚡ Data Structures & Algorithms
+- Backend Development with FastAPI
 
 ---
 
 ## Goals
--Seeking Software Engineering and AI/ML Internship opportunities where I can build scalable AI-powered applications and
-continue growing as a software engineer.
+-Seeking Software Engineering and AI/ML internship opportunities to build scalable, production-ready AI applications while strengthening software engineering fundamentals.
 - 🚀 Build production-level AI/ML systems  
 - 🌍 Contribute to Open Source  
 
@@ -120,7 +135,7 @@ continue growing as a software engineer.
 
 ### Redrob India Runs Hackathon
 
-Worked as the AI Ranking Engine Developer in a four-member team.
+Built the AI ranking engine for an intelligent recruitment platform in a four-member team.
 
 Built modular candidate scoring and explainable ranking system using Python.
 
