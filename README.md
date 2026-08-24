@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Anshu Arora</h1>
-<h3 align="center">B.Tech CSE (3rd Year) | Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
+<h3 align="center">B.Tech CSE (Final Year) | Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:anshuar202@gmail.com">
