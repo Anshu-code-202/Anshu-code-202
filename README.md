@@ -16,7 +16,7 @@
 
 ## About Me
 
--🎓 B.Tech Computer Science Engineering (3rd Year)
+-🎓 B.Tech Computer Science Engineering (final Year)
 
 -💻 Skilled in Python, SQL, Data Science and Machine Learning
 
